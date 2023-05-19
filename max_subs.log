@@ -1,0 +1,82 @@
+op-batcher_1   | t=2023-05-19T19:50:00+0000 lvl=warn msg="unable to publish tx to celestia"   service=batcher err="rpc error: code = Unknown desc =
+ max_subscriptions_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:00+0000 lvl=warn msg="unable to publish tx"               err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached" data_size=1018
+op-batcher_1   | t=2023-05-19T19:50:00+0000 lvl=warn msg="Failed to send transaction"         err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:00+0000 lvl=warn msg="unable to publish tx to celestia"   service=batcher err="rpc error: code = Unknown desc =
+ max_subscriptions_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:00+0000 lvl=warn msg="unable to publish tx"               err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached" data_size=1018
+op-batcher_1   | t=2023-05-19T19:50:00+0000 lvl=warn msg="Failed to send transaction"         err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:30+0000 lvl=warn msg="unable to publish tx to celestia"   service=batcher err="rpc error: code = Unknown desc =
+ max_subscriptions_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:30+0000 lvl=warn msg="unable to publish tx"               err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached" data_size=707
+op-batcher_1   | t=2023-05-19T19:50:30+0000 lvl=warn msg="Failed to send transaction"         err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:30+0000 lvl=warn msg="unable to publish tx to celestia"   service=batcher err="rpc error: code = Unknown desc =
+ max_subscriptions_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:30+0000 lvl=warn msg="unable to publish tx"               err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached" data_size=707
+op-batcher_1   | t=2023-05-19T19:50:30+0000 lvl=warn msg="Failed to send transaction"         err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:30+0000 lvl=warn msg="unable to publish tx to celestia"   service=batcher err="rpc error: code = Unknown desc =
+ max_subscriptions_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:30+0000 lvl=warn msg="unable to publish tx"               err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached" data_size=707
+op-batcher_1   | t=2023-05-19T19:50:30+0000 lvl=warn msg="Failed to send transaction"         err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:30+0000 lvl=warn msg="unable to publish tx to celestia"   service=batcher err="rpc error: code = Unknown desc =
+ max_subscriptions_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:30+0000 lvl=warn msg="unable to publish tx"               err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached" data_size=707
+op-batcher_1   | t=2023-05-19T19:50:30+0000 lvl=warn msg="Failed to send transaction"         err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:31+0000 lvl=warn msg="unable to publish tx to celestia"   service=batcher err="rpc error: code = Unknown desc =
+ max_subscriptions_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:31+0000 lvl=warn msg="unable to publish tx"               err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached" data_size=707
+op-batcher_1   | t=2023-05-19T19:50:31+0000 lvl=warn msg="Failed to send transaction"         err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:31+0000 lvl=warn msg="unable to publish tx to celestia"   service=batcher err="rpc error: code = Unknown desc =
+ max_subscriptions_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:31+0000 lvl=warn msg="unable to publish tx"               err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached" data_size=707
+op-batcher_1   | t=2023-05-19T19:50:31+0000 lvl=warn msg="Failed to send transaction"         err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:31+0000 lvl=warn msg="unable to publish tx to celestia"   service=batcher err="rpc error: code = Unknown desc =
+ max_subscriptions_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:31+0000 lvl=warn msg="unable to publish tx"               err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached" data_size=707
+op-batcher_1   | t=2023-05-19T19:50:31+0000 lvl=warn msg="Failed to send transaction"         err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:31+0000 lvl=warn msg="unable to publish tx to celestia"   service=batcher err="rpc error: code = Unknown desc =
+ max_subscriptions_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:31+0000 lvl=warn msg="unable to publish tx"               err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached" data_size=707
+op-batcher_1   | t=2023-05-19T19:50:31+0000 lvl=warn msg="unable to publish tx to celestia"   service=batcher err="rpc error: code = Unknown desc =
+ max_subscriptions_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:31+0000 lvl=warn msg="unable to publish tx"               err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached" data_size=707
+op-batcher_1   | t=2023-05-19T19:50:31+0000 lvl=warn msg="Failed to send transaction"         err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:31+0000 lvl=warn msg="unable to publish tx to celestia"   service=batcher err="rpc error: code = Unknown desc =
+ max_subscriptions_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:31+0000 lvl=warn msg="unable to publish tx"               err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached" data_size=707
+op-batcher_1   | t=2023-05-19T19:50:31+0000 lvl=warn msg="Failed to send transaction"         err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:32+0000 lvl=warn msg="unable to publish tx to celestia"   service=batcher err="rpc error: code = Unknown desc =
+ max_subscriptions_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:32+0000 lvl=warn msg="unable to publish tx"               err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached" data_size=707
+op-batcher_1   | t=2023-05-19T19:50:32+0000 lvl=warn msg="Failed to send transaction"         err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:32+0000 lvl=warn msg="unable to publish tx to celestia"   service=batcher err="rpc error: code = Unknown desc =
+ max_subscriptions_per_client 5 reached"
+op-batcher_1   | t=2023-05-19T19:50:32+0000 lvl=warn msg="unable to publish tx"               err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached" data_size=707
+op-batcher_1   | t=2023-05-19T19:50:32+0000 lvl=warn msg="Failed to send transaction"         err="rpc error: code = Unknown desc = max_subscriptio
+ns_per_client 5 reached"
